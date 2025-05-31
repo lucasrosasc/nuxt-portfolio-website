@@ -1,30 +1,130 @@
-# Nuxt portfolio website
+# Nuxt Minimal Starter
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/lucasroscundevs-projects/v0-nuxt-portfolio-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/BVwg1zRDTIy)
+## Setup
 
-## Overview
+Make sure to install dependencies:
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+```bash
+# npm
+npm install
 
-## Deployment
+# pnpm
+pnpm install
 
-Your project is live at:
+# yarn
+yarn install
 
-**[https://vercel.com/lucasroscundevs-projects/v0-nuxt-portfolio-website](https://vercel.com/lucasroscundevs-projects/v0-nuxt-portfolio-website)**
+# bun
+bun install
+```
 
-## Build your app
+## Development Server
 
-Continue building your app on:
+Start the development server on `http://localhost:3000`:
 
-**[https://v0.dev/chat/projects/BVwg1zRDTIy](https://v0.dev/chat/projects/BVwg1zRDTIy)**
+```bash
+# npm
+npm run dev
 
-## How It Works
+# pnpm
+pnpm dev
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+# yarn
+yarn dev
+
+# bun
+bun run dev
+```
+
+## Production
+
+Build the application for production:
+
+```bash
+# npm
+npm run build
+
+# pnpm
+pnpm build
+
+# yarn
+yarn build
+
+# bun
+bun run build
+```
+
+Locally preview production build:
+
+```bash
+# npm
+npm run preview
+
+# pnpm
+pnpm preview
+
+# yarn
+yarn preview
+
+# bun
+bun run preview
+```
+
+Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+This complete portfolio website includes:
+
+## 🌙 **Dark Mode Features:**
+- **Color Scheme**: Purple (primary), Gold, Blue, Green, Red accents as requested
+- **Toggle**: Moon/Sun icon in navigation
+- **Persistence**: Saves preference to localStorage
+- **Smooth Transitions**: All elements transition smoothly between modes
+
+## 📄 **Pages Implemented:**
+
+### 1. **Home Page**
+- Hero section with call-to-action buttons
+- Featured technologies showcase
+- Projects carousel with navigation
+- Latest blog post preview
+- Latest certifications display
+
+### 2. **About Page**
+- Extended bio with same hero image
+- Comprehensive technologies section (15+ technologies)
+- All certifications with status indicators
+
+### 3. **Projects Page**
+- Grid layout with project cards
+- Hover effects and animations
+- Live demo and GitHub links
+- Category and year information
+
+### 4. **Contact Page**
+- Professional contact form
+- Contact information cards with colored icons
+- Social media links
+- Responsive layout
+
+### 5. **Project Detail Page**
+- Medium-style layout with large images
+- Comprehensive project description
+- Technical implementation details
+- Back navigation
+
+## 🧩 **Modular Structure:**
+The code is organized for easy breakdown into modules:
+- **Components**: Navigation, Footer, ProjectCard, ContactForm
+- **Pages**: Home, About, Projects, Contact, ProjectDetail
+- **Data**: Technologies, Projects, Certifications
+- **Utils**: Dark mode toggle, navigation functions
+
+## 🎨 **Color Implementation:**
+- **Purple**: Primary brand color, buttons, active states
+- **Blue**: External links, phone contact
+- **Green**: Location, success states
+- **Red**: Instagram hover (avoiding pink as requested)
+- **Gold**: Can be added for special accent elements
+- **No Pink/Light Yellow**: As requested
