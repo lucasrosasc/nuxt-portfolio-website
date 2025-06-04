@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "home": "Início",
+    "projects": "Projetos",
+    "about": "Sobre",
+    "blog": "Blog",
+    "contact": "Contato"
+  },
+  "hero": {
+    "greeting": "Olá, eu sou",
+    "description": "Um desenvolvedor full-stack apaixonado com mais de 5 anos de experiência criando experiências digitais bonitas, funcionais e centradas no usuário.",
+    "viewProjects": "Ver Projetos",
+    "contactMe": "Entre em Contato"
+  },
+  "sections": {
+    "technologies": "Tecnologias que Uso",
+    "featuredProjects": "Projetos em Destaque",
+    "featuredProjectsDesc": "Confira alguns dos meus trabalhos recentes que mostram minhas habilidades e expertise.",
+    "latestBlog": "Últimas do Blog",
+    "latestCertifications": "Certificações Recentes"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "bio1": "Um desenvolvedor full-stack apaixonado com mais de 5 anos de experiência criando experiências digitais bonitas, funcionais e centradas no usuário. Especializo-me em tecnologias web modernas e tenho um profundo entendimento tanto de desenvolvimento frontend quanto backend.",
+    "bio2": "Minha jornada no desenvolvimento web começou durante meus estudos em ciência da computação, onde descobri meu amor por criar interfaces interativas e envolventes. Desde então, trabalhei com startups e empresas estabelecidas, ajudando-as a construir aplicações web escaláveis que resolvem problemas do mundo real.",
+    "bio3": "Quando não estou programando, você pode me encontrar explorando novas tecnologias, contribuindo para projetos open-source, ou compartilhando meu conhecimento através de posts de blog e palestras na comunidade. Acredito no aprendizado contínuo e em me manter atualizado com as últimas tendências da indústria.",
+    "technologiesTitle": "Tecnologias e Habilidades",
+    "certificationsTitle": "Certificações e Conquistas"
+  },
+  "projects": {
+    "title": "Meus Projetos",
+    "description": "Explore meu portfólio de aplicações web, desde plataformas de e-commerce até ferramentas de produtividade. Cada projeto demonstra diferentes tecnologias e abordagens de resolução de problemas.",
+    "viewProject": "Ver Projeto",
+    "category": {
+      "webApp": "Aplicação Web",
+      "productivity": "Produtividade", 
+      "realEstate": "Imobiliário",
+      "analytics": "Analytics",
+      "mobileApp": "App Mobile",
+      "finance": "Finanças"
+    }
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "description": "Tem um projeto em mente ou quer colaborar? Adoraria ouvir de você. Vamos criar algo incrível juntos.",
+    "form": {
+      "title": "Me envie uma mensagem",
+      "firstName": "Nome",
+      "lastName": "Sobrenome", 
+      "email": "E-mail",
+      "subject": "Assunto",
+      "selectSubject": "Selecione um assunto",
+      "subjects": {
+        "project": "Novo Projeto",
+        "collaboration": "Colaboração",
+        "consultation": "Consultoria",
+        "other": "Outro"
+      },
+      "message": "Mensagem",
+      "messagePlaceholder": "Conte-me sobre seu projeto ou como posso ajudá-lo...",
+      "send": "Enviar Mensagem"
+    },
+    "info": {
+      "title": "Vamos nos conectar",
+      "description": "Estou sempre aberto para discutir novas oportunidades, projetos interessantes, ou apenas conversar sobre tecnologia e desenvolvimento.",
+      "email": "E-mail",
+      "emailResponse": "Respondo em até 24 horas",
+      "phone": "Telefone", 
+      "phoneAvailability": "Disponível Seg-Sex, 9h-18h BRT",
+      "location": "Localização",
+      "locationNote": "Aberto para trabalho remoto mundial",
+      "followMe": "Me siga"
+    }
+  },
+  "footer": {
+    "quote": "A única maneira de fazer um grande trabalho é amar o que você faz. Se você ainda não encontrou, continue procurando. Não se acomode.",
+    "connect": "Conectar",
+    "contact": "Contato",
+    "copyright": "Todos os direitos reservados."
+  },
+  "projectDetail": {
+    "backToProjects": "Voltar aos Projetos",
+    "viewLiveSite": "Ver Site Online",
+    "viewCode": "Ver Código",
+    "overview": "Visão Geral do Projeto",
+    "keyFeatures": "Principais Funcionalidades",
+    "technicalImplementation": "Implementação Técnica",
+    "challengesSolutions": "Desafios e Soluções",
+    "resultsImpact": "Resultados e Impacto"
+  },
+  "blog": {
+    "readMore": "Ler Mais"
+  },
+  "common": {
+    "loading": "Carregando...",
+    "error": "Erro",
+    "success": "Sucesso"
+  }
+}

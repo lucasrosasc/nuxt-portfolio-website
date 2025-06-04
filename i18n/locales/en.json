@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects", 
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "description": "A passionate full-stack developer with over 5 years of experience creating beautiful, functional, and user-centered digital experiences.",
+    "viewProjects": "View Projects",
+    "contactMe": "Contact Me"
+  },
+  "sections": {
+    "technologies": "Technologies I Work With",
+    "featuredProjects": "Featured Projects",
+    "featuredProjectsDesc": "Check out some of my recent work that showcases my skills and expertise.",
+    "latestBlog": "Latest from the Blog",
+    "latestCertifications": "Latest Certifications"
+  },
+  "about": {
+    "title": "About Me",
+    "bio1": "A passionate full-stack developer with over 5 years of experience creating beautiful, functional, and user-centered digital experiences. I specialize in modern web technologies and have a deep understanding of both frontend and backend development.",
+    "bio2": "My journey in web development started during my computer science studies, where I discovered my love for creating interactive and engaging user interfaces. Since then, I've worked with startups and established companies, helping them build scalable web applications that solve real-world problems.",
+    "bio3": "When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge through blog posts and community talks. I believe in continuous learning and staying up-to-date with the latest industry trends.",
+    "technologiesTitle": "Technologies & Skills", 
+    "certificationsTitle": "Certifications & Achievements"
+  },
+  "projects": {
+    "title": "My Projects",
+    "description": "Explore my portfolio of web applications, from e-commerce platforms to productivity tools. Each project showcases different technologies and problem-solving approaches.",
+    "viewProject": "View Project",
+    "category": {
+      "webApp": "Web Application",
+      "productivity": "Productivity",
+      "realEstate": "Real Estate", 
+      "analytics": "Analytics",
+      "mobileApp": "Mobile App",
+      "finance": "Finance"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "description": "Have a project in mind or want to collaborate? I'd love to hear from you. Let's create something amazing together.",
+    "form": {
+      "title": "Send me a message",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "subject": "Subject",
+      "selectSubject": "Select a subject",
+      "subjects": {
+        "project": "New Project",
+        "collaboration": "Collaboration", 
+        "consultation": "Consultation",
+        "other": "Other"
+      },
+      "message": "Message",
+      "messagePlaceholder": "Tell me about your project or how I can help you...",
+      "send": "Send Message"
+    },
+    "info": {
+      "title": "Let's connect",
+      "description": "I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology and development.",
+      "email": "Email",
+      "emailResponse": "I'll respond within 24 hours",
+      "phone": "Phone",
+      "phoneAvailability": "Available Mon-Fri, 9AM-6PM PST",
+      "location": "Location",
+      "locationNote": "Open to remote work worldwide",
+      "followMe": "Follow me"
+    }
+  },
+  "footer": {
+    "quote": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.",
+    "connect": "Connect",
+    "contact": "Contact", 
+    "copyright": "All rights reserved."
+  },
+  "projectDetail": {
+    "backToProjects": "Back to Projects",
+    "viewLiveSite": "View Live Site",
+    "viewCode": "View Code",
+    "overview": "Project Overview",
+    "keyFeatures": "Key Features", 
+    "technicalImplementation": "Technical Implementation",
+    "challengesSolutions": "Challenges & Solutions",
+    "resultsImpact": "Results & Impact"
+  },
+  "blog": {
+    "readMore": "Read More"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  }
+}
