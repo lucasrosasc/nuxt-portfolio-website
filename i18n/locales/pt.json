@@ -8,7 +8,7 @@
   },
   "hero": {
     "greeting": "Olá, eu sou",
-    "description": "Um desenvolvedor full-stack apaixonado com mais de 5 anos de experiência criando experiências digitais bonitas, funcionais e centradas no usuário.",
+    "description": "Um desenvolvedor full-stack apaixonado com mais de 2 anos de experiência criando experiências digitais bonitas, funcionais e centradas no usuário.",
     "viewProjects": "Ver Projetos",
     "contactMe": "Entre em Contato"
   },
@@ -33,7 +33,7 @@
     "viewProject": "Ver Projeto",
     "category": {
       "webApp": "Aplicação Web",
-      "productivity": "Produtividade", 
+      "productivity": "Produtividade",
       "realEstate": "Imobiliário",
       "analytics": "Analytics",
       "mobileApp": "App Mobile",
@@ -46,7 +46,7 @@
     "form": {
       "title": "Me envie uma mensagem",
       "firstName": "Nome",
-      "lastName": "Sobrenome", 
+      "lastName": "Sobrenome",
       "email": "E-mail",
       "subject": "Assunto",
       "selectSubject": "Selecione um assunto",
@@ -65,7 +65,7 @@
       "description": "Estou sempre aberto para discutir novas oportunidades, projetos interessantes, ou apenas conversar sobre tecnologia e desenvolvimento.",
       "email": "E-mail",
       "emailResponse": "Respondo em até 24 horas",
-      "phone": "Telefone", 
+      "phone": "Telefone",
       "phoneAvailability": "Disponível Seg-Sex, 9h-18h BRT",
       "location": "Localização",
       "locationNote": "Aberto para trabalho remoto mundial",

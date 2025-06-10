@@ -40,15 +40,15 @@
           <div class="space-y-2">
             <div class="flex items-center">
               <Icon name="lucide:mail" class="w-5 h-5 mr-2 text-gray-400" />
-              <span class="text-gray-400">hello@portfolio.com</span>
+              <span class="text-gray-400">lucasrosasc@outlook.com.br</span>
             </div>
             <div class="flex items-center">
               <Icon name="lucide:phone" class="w-5 h-5 mr-2 text-gray-400" />
-              <span class="text-gray-400">(123) 456-7890</span>
+              <span class="text-gray-400">+55 21 99803-6560</span>
             </div>
             <div class="flex items-center">
               <Icon name="lucide:map-pin" class="w-5 h-5 mr-2 text-gray-400" />
-              <span class="text-gray-400">San Francisco, CA</span>
+              <span class="text-gray-400">Rio de Janeiro, RJ</span>
             </div>
           </div>
         </div>
@@ -68,25 +68,25 @@ const socialLinks = [
   {
     name: 'GitHub',
     icon: 'lucide:github',
-    url: '#',
+    url: 'https://github.com/lucasrosasdacunha',
     hoverColor: 'hover:text-purple-400'
   },
   {
     name: 'LinkedIn',
     icon: 'lucide:linkedin',
-    url: '#',
+    url: 'https://www.linkedin.com/in/lucas-rosas-da-cunha/',
     hoverColor: 'hover:text-blue-400'
   },
   {
     name: 'Twitter',
     icon: 'lucide:twitter',
-    url: '#',
+    url: 'https://x.com/lucas_roscun',
     hoverColor: 'hover:text-blue-400'
   },
   {
     name: 'Instagram',
     icon: 'lucide:instagram',
-    url: '#',
+    url: 'https://www.instagram.com/',
     hoverColor: 'hover:text-red-400'
   }
 ]

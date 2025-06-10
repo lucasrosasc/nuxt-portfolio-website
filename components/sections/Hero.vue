@@ -3,7 +3,7 @@
     <div class="container mx-auto px-4 flex flex-col md:flex-row items-center">
       <div class="md:w-1/2 mb-8 md:mb-0">
         <h1 class="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-4">
-          {{ $t('hero.greeting') }} <span class="text-purple-600 dark:text-purple-400">Alex</span>
+          {{ $t('hero.greeting') }} <span class="text-purple-600 dark:text-purple-400">Lucas</span>
         </h1>
         <p class="text-xl text-gray-700 dark:text-gray-300 mb-6">
           {{ $t('hero.description') }}

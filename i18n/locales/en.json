@@ -1,14 +1,14 @@
 {
   "nav": {
     "home": "Home",
-    "projects": "Projects", 
+    "projects": "Projects",
     "about": "About",
     "blog": "Blog",
     "contact": "Contact"
   },
   "hero": {
     "greeting": "Hi, I'm",
-    "description": "A passionate full-stack developer with over 5 years of experience creating beautiful, functional, and user-centered digital experiences.",
+    "description": "A passionate full-stack developer with over 2 years of experience creating beautiful, functional, and user-centered digital experiences.",
     "viewProjects": "View Projects",
     "contactMe": "Contact Me"
   },
@@ -24,7 +24,7 @@
     "bio1": "A passionate full-stack developer with over 5 years of experience creating beautiful, functional, and user-centered digital experiences. I specialize in modern web technologies and have a deep understanding of both frontend and backend development.",
     "bio2": "My journey in web development started during my computer science studies, where I discovered my love for creating interactive and engaging user interfaces. Since then, I've worked with startups and established companies, helping them build scalable web applications that solve real-world problems.",
     "bio3": "When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge through blog posts and community talks. I believe in continuous learning and staying up-to-date with the latest industry trends.",
-    "technologiesTitle": "Technologies & Skills", 
+    "technologiesTitle": "Technologies & Skills",
     "certificationsTitle": "Certifications & Achievements"
   },
   "projects": {
@@ -34,7 +34,7 @@
     "category": {
       "webApp": "Web Application",
       "productivity": "Productivity",
-      "realEstate": "Real Estate", 
+      "realEstate": "Real Estate",
       "analytics": "Analytics",
       "mobileApp": "Mobile App",
       "finance": "Finance"
@@ -52,7 +52,7 @@
       "selectSubject": "Select a subject",
       "subjects": {
         "project": "New Project",
-        "collaboration": "Collaboration", 
+        "collaboration": "Collaboration",
         "consultation": "Consultation",
         "other": "Other"
       },
@@ -75,7 +75,7 @@
   "footer": {
     "quote": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.",
     "connect": "Connect",
-    "contact": "Contact", 
+    "contact": "Contact",
     "copyright": "All rights reserved."
   },
   "projectDetail": {
@@ -83,7 +83,7 @@
     "viewLiveSite": "View Live Site",
     "viewCode": "View Code",
     "overview": "Project Overview",
-    "keyFeatures": "Key Features", 
+    "keyFeatures": "Key Features",
     "technicalImplementation": "Technical Implementation",
     "challengesSolutions": "Challenges & Solutions",
     "resultsImpact": "Results & Impact"
