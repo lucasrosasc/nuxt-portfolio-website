@@ -13,7 +13,7 @@
         class="absolute left-0 top-1/2 -translate-y-1/2 z-10 bg-white dark:bg-gray-700 p-2 rounded-full shadow-md hover:bg-gray-100 dark:hover:bg-gray-600 transition-colors"
           @click="prevProject"
         >
-          <Icon name="lucide:chevron-left" class="w-6 h-6" />
+          <Icon name="lineicons:chevron-left" class="w-6 h-6" />
         </button>
 
         <div class="overflow-hidden">
@@ -45,7 +45,7 @@
                     class="text-purple-600 dark:text-purple-400 font-medium hover:text-purple-700 dark:hover:text-purple-300 flex items-center transition-colors"
                   >
                     {{ $t('projects.viewProject') }}
-                    <Icon name="lucide:arrow-right" class="ml-1 w-4 h-4" />
+                    <Icon name="lineicons:arrow-right" class="ml-1 w-4 h-4" />
                   </NuxtLink>
                 </div>
               </div>
@@ -57,7 +57,7 @@
           class="absolute right-0 top-1/2 -translate-y-1/2 z-10 bg-white dark:bg-gray-700 p-2 rounded-full shadow-md hover:bg-gray-100 dark:hover:bg-gray-600 transition-colors"
           @click="nextProject"
         >
-          <Icon name="lucide:chevron-right" class="w-6 h-6" />
+          <Icon name="lineicons:chevron-right" class="w-6 h-6" />
         </button>
 
         <div class="flex justify-center mt-6 space-x-2">

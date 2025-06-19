@@ -35,7 +35,7 @@
                 class="text-purple-600 dark:text-purple-400 font-medium hover:text-purple-700 dark:hover:text-purple-300 flex items-center transition-colors"
               >
                 {{ $t('blog.readMore') }}
-                <Icon name="lucide:arrow-right" class="ml-1 w-4 h-4" />
+                <Icon name="lineicons:arrow-right" class="ml-1 w-4 h-4" />
               </NuxtLink>
             </div>
           </article>

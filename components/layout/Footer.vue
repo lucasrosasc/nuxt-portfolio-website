@@ -39,15 +39,15 @@
           <h3 class="text-lg font-semibold mb-4">{{ $t('footer.contact') }}</h3>
           <div class="space-y-2">
             <div class="flex items-center">
-              <Icon name="lucide:mail" class="w-5 h-5 mr-2 text-gray-400" />
+              <Icon name="lineicons:envelope" class="w-5 h-5 mr-2 text-gray-400" />
               <span class="text-gray-400">lucasrosasc@outlook.com.br</span>
             </div>
             <div class="flex items-center">
-              <Icon name="lucide:phone" class="w-5 h-5 mr-2 text-gray-400" />
+              <Icon name="lineicons:phone" class="w-5 h-5 mr-2 text-gray-400" />
               <span class="text-gray-400">+55 21 99803-6560</span>
             </div>
             <div class="flex items-center">
-              <Icon name="lucide:map-pin" class="w-5 h-5 mr-2 text-gray-400" />
+              <Icon name="lineicons:map-marker" class="w-5 h-5 mr-2 text-gray-400" />
               <span class="text-gray-400">Rio de Janeiro, RJ</span>
             </div>
           </div>
@@ -67,25 +67,25 @@
 const socialLinks = [
   {
     name: 'GitHub',
-    icon: 'lucide:github',
+    icon: 'lineicons:github-original',
     url: 'https://github.com/lucasrosasdacunha',
     hoverColor: 'hover:text-purple-400'
   },
   {
     name: 'LinkedIn',
-    icon: 'lucide:linkedin',
+    icon: 'lineicons:linkedin-original',
     url: 'https://www.linkedin.com/in/lucas-rosas-da-cunha/',
     hoverColor: 'hover:text-blue-400'
   },
   {
     name: 'Twitter',
-    icon: 'lucide:twitter',
+    icon: 'lineicons:x',
     url: 'https://x.com/lucas_roscun',
     hoverColor: 'hover:text-blue-400'
   },
   {
     name: 'Instagram',
-    icon: 'lucide:instagram',
+    icon: 'lineicons:instagram-original',
     url: 'https://www.instagram.com/',
     hoverColor: 'hover:text-red-400'
   }

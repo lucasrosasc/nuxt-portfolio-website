@@ -17,7 +17,7 @@ useHead({
     { property: 'og:type', content: 'website' }
   ],
   link: [
-    { rel: 'icon', type: 'image/png', href: '/logo_2.png'}
+    { rel: 'icon', type: 'image/png', href: '/logo.png'}
   ]
 })
 </script>

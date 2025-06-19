@@ -114,7 +114,7 @@
             <div class="space-y-6">
               <div class="flex items-start space-x-4">
                 <div class="bg-purple-100 dark:bg-purple-900/30 p-3 rounded-lg">
-                  <Icon name="lucide:mail" class="w-6 h-6 text-purple-600 dark:text-purple-400" />
+                  <Icon name="lineicons:envelope" class="w-6 h-6 text-purple-600 dark:text-purple-400" />
                 </div>
                 <div>
                   <h3 class="font-semibold text-gray-900 dark:text-white">{{ $t('contact.info.email') }}</h3>
@@ -125,7 +125,7 @@
 
               <div class="flex items-start space-x-4">
                 <div class="bg-blue-100 dark:bg-blue-900/30 p-3 rounded-lg">
-                  <Icon name="lucide:phone" class="w-6 h-6 text-blue-600 dark:text-blue-400" />
+                  <Icon name="lineicons:phone" class="w-6 h-6 text-blue-600 dark:text-blue-400" />
                 </div>
                 <div>
                   <h3 class="font-semibold text-gray-900 dark:text-white">{{ $t('contact.info.phone') }}</h3>
@@ -136,7 +136,7 @@
 
               <div class="flex items-start space-x-4">
                 <div class="bg-green-100 dark:bg-green-900/30 p-3 rounded-lg">
-                  <Icon name="lucide:map-pin" class="w-6 h-6 text-green-600 dark:text-green-400" />
+                  <Icon name="lineicons:map-marker" class="w-6 h-6 text-green-600 dark:text-green-400" />
                 </div>
                 <div>
                   <h3 class="font-semibold text-gray-900 dark:text-white">{{ $t('contact.info.location') }}</h3>
@@ -187,19 +187,25 @@ const contactForm = ref<ContactForm>({
 const socialLinks: SocialLink[] = [
   {
     name: 'GitHub',
-    icon: 'lucide:github',
+    icon: 'lineicons:github-original',
     url: '#',
     hoverColor: 'hover:bg-purple-100 dark:hover:bg-purple-900/30'
   },
   {
     name: 'LinkedIn',
-    icon: 'lucide:linkedin',
+    icon: 'lineicons:linkedin-original',
     url: '#',
     hoverColor: 'hover:bg-blue-100 dark:hover:bg-blue-900/30'
   },
   {
     name: 'Twitter',
-    icon: 'lucide:twitter',
+    icon: 'lineicons:x',
+    url: '#',
+    hoverColor: 'hover:bg-blue-100 dark:hover:bg-blue-900/30'
+  },
+  {
+    name: 'Instagram',
+    icon: 'lineicons:instagram-original',
     url: '#',
     hoverColor: 'hover:bg-blue-100 dark:hover:bg-blue-900/30'
   }

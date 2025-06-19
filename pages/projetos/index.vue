@@ -50,7 +50,7 @@
               <div class="flex items-center justify-between">
                 <span class="text-purple-600 dark:text-purple-400 font-medium flex items-center">
                   {{ $t('projects.viewProject') }}
-                  <Icon name="lucide:arrow-right" class="ml-1 w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                  <Icon name="lineicons:arrow-right" class="ml-1 w-4 h-4 group-hover:translate-x-1 transition-transform" />
                 </span>
                 <div class="flex space-x-2">
                   <a 
@@ -60,7 +60,7 @@
                     class="text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 transition-colors"
                     @click.stop
                   >
-                    <Icon name="lucide:external-link" class="w-4 h-4" />
+                    <Icon name="lineicons:external-link" class="w-4 h-4" />
                   </a>
                   <a 
                     v-if="project.githubUrl" 
@@ -69,7 +69,7 @@
                     class="text-gray-600 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 transition-colors"
                     @click.stop
                   >
-                    <Icon name="lucide:github" class="w-4 h-4" />
+                    <Icon name="lineicons:github-original" class="w-4 h-4" />
                   </a>
                 </div>
               </div>

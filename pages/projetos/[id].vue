@@ -9,7 +9,7 @@
               to="/projetos" 
               class="flex items-center text-purple-600 dark:text-purple-400 hover:text-purple-700 dark:hover:text-purple-300 mb-6 transition-colors"
             >
-              <Icon name="lucide:arrow-left" class="mr-2 w-5 h-5" />
+              <Icon name="lineicons:arrow-left" class="mr-2 w-5 h-5" />
               {{ $t('projectDetail.backToProjects') }}
             </NuxtLink>
             <h1 class="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-4">
@@ -34,7 +34,7 @@
                 target="_blank"
                 class="bg-purple-600 hover:bg-purple-700 dark:bg-purple-500 dark:hover:bg-purple-600 text-white px-6 py-3 rounded-md font-medium transition-colors flex items-center"
               >
-                <Icon name="lucide:external-link" class="mr-2 w-5 h-5" />
+                <Icon name="lineicons:external-link" class="mr-2 w-5 h-5" />
                 {{ $t('projectDetail.viewLiveSite') }}
               </a>
               <a 
@@ -43,7 +43,7 @@
                 target="_blank"
                 class="border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800 px-6 py-3 rounded-md font-medium transition-colors flex items-center"
               >
-                <Icon name="lucide:github" class="mr-2 w-5 h-5" />
+                <Icon name="lineicons:github-original" class="mr-2 w-5 h-5" />
                 {{ $t('projectDetail.viewCode') }}
               </a>
             </div>

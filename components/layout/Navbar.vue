@@ -6,10 +6,8 @@
     <div class="container mx-auto px-4 py-4 flex justify-between items-center">
       <!-- Logo -->
       <NuxtLink to="/" class="flex items-center">
-        <div class="h-10 w-10 bg-gradient-to-r from-purple-600 to-purple-800 dark:from-purple-500 dark:to-purple-700 rounded-md flex items-center justify-center text-white font-bold text-xl">
-          P
-        </div>
-        <span class="ml-2 text-xl font-semibold">Portfolio</span>
+          <img src="/logo.png" alt="LucasRC Logo" class="h-10 w-10" />
+          <span class="ml-2 text-2xl font-semibold dark:text-white text-black ">Portfolio</span>
       </NuxtLink>
 
       <!-- Desktop Navigation -->
@@ -36,8 +34,8 @@
           @click="toggleDarkMode"
         >
           <Icon
-            :name="isDarkMode ? 'lucide:sun' : 'lucide:moon'"
-            class="h-5 w-5"
+            :name="isDarkMode ? 'lineicons:sun-1' : 'lineicons:moon-half-right-5'"
+            class="scale-130"
           />
         </button>
 
@@ -55,7 +53,7 @@
           class="md:hidden p-2 rounded-md hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
           @click="toggleMobileMenu"
         >
-          <Icon name="lucide:menu" class="h-6 w-6" />
+          <Icon name="lineicons:menu" class="h-6 w-6" />
           <span class="sr-only">Toggle menu</span>
         </button>
       </div>
