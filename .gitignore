@@ -23,6 +23,7 @@ logs
 .env.*
 !.env.example
 
+#Claude files
 CLAUDE.md
 .claude
 .claude/

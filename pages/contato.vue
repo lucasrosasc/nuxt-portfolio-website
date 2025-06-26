@@ -118,7 +118,7 @@
                 </div>
                 <div>
                   <h3 class="font-semibold text-gray-900 dark:text-white">{{ $t('contact.info.email') }}</h3>
-                  <p class="text-gray-600 dark:text-gray-400">hello@portfolio.com</p>
+                  <p class="text-gray-600 dark:text-gray-400">lucasrosasc@outlook.com.br</p>
                   <p class="text-sm text-gray-500 dark:text-gray-500">{{ $t('contact.info.emailResponse') }}</p>
                 </div>
               </div>
@@ -129,7 +129,7 @@
                 </div>
                 <div>
                   <h3 class="font-semibold text-gray-900 dark:text-white">{{ $t('contact.info.phone') }}</h3>
-                  <p class="text-gray-600 dark:text-gray-400">(123) 456-7890</p>
+                  <p class="text-gray-600 dark:text-gray-400">+55 21 99803-6560</p>
                   <p class="text-sm text-gray-500 dark:text-gray-500">{{ $t('contact.info.phoneAvailability') }}</p>
                 </div>
               </div>
@@ -140,7 +140,7 @@
                 </div>
                 <div>
                   <h3 class="font-semibold text-gray-900 dark:text-white">{{ $t('contact.info.location') }}</h3>
-                  <p class="text-gray-600 dark:text-gray-400">San Francisco, CA</p>
+                  <p class="text-gray-600 dark:text-gray-400">Rio de Janeiro, RJ</p>
                   <p class="text-sm text-gray-500 dark:text-gray-500">{{ $t('contact.info.locationNote') }}</p>
                 </div>
               </div>
